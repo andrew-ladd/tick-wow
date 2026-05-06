@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: Tick
+## Notes: Clock, timer, and alarm tools for Burning Crusade Classic Anniversary.
+## Author: Andrew Ladd
+## Version: 0.1.0
+## SavedVariables: TickWowDB
+
+TickWow.lua
